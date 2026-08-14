@@ -8,7 +8,7 @@
 
 ## Project Repository
 
-https://github.com/sereenghazali787/techtalks-assignment-2-sereen-ghazali
+https://github.com/sereenghazali787/techtalks-assignment-2-sereen-ghazali/tree/assignment-02-sereen-ghazali
 
 ## Code Review Pull Request
 
