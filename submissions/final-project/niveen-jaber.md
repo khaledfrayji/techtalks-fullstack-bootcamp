@@ -27,5 +27,3 @@ The production build passed but reported that MongoDB Atlas was unreachable. The
 ## Additional Notes
 
 The project review branch is `final-project-niveen-jaber`, targeting `main`. The review pull request will remain open for mentor review. TypeScript, ESLint, and the production build passed. Environment secrets and generated dependencies are excluded from the submission.
-
-
